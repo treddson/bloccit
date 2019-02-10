@@ -1,0 +1,11 @@
+{
+  "name": "bloccit",
+  "version": "1.0.0",
+  "description": "An application where users can comment, post as well as upvote or downvote posts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Taylor Short",
+  "license": "ISC"
+}
