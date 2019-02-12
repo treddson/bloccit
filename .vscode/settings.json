@@ -1,0 +1,7 @@
+{
+    "editor.formatOnSave": true,
+    "explorer.sortOrder": "type",
+    "editor.cursorBlinking": "phase",
+    "files.trimFinalNewlines": true,
+    "better-comments.multilineComments": true
+}
