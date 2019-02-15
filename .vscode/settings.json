@@ -3,5 +3,8 @@
     "explorer.sortOrder": "type",
     "editor.cursorBlinking": "phase",
     "files.trimFinalNewlines": true,
-    "better-comments.multilineComments": true
+    "better-comments.multilineComments": true,
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.cursorStyle": "underline",
+    "terminal.integrated.enableBell": true
 }
